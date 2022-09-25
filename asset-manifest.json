@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ivan-box/goit-react-hw-02-feedback.git/static/css/main.7acaea2f.css",
-    "main.js": "/ivan-box/goit-react-hw-02-feedback.git/static/js/main.07d3183d.js",
-    "index.html": "/ivan-box/goit-react-hw-02-feedback.git/index.html",
-    "main.7acaea2f.css.map": "/ivan-box/goit-react-hw-02-feedback.git/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/ivan-box/goit-react-hw-02-feedback.git/static/js/main.07d3183d.js.map"
+    "main.css": "/goit-react-hw-02-feedback/static/css/main.c8a9e575.css",
+    "main.js": "/goit-react-hw-02-feedback/static/js/main.3f11ad31.js",
+    "index.html": "/goit-react-hw-02-feedback/index.html",
+    "main.c8a9e575.css.map": "/goit-react-hw-02-feedback/static/css/main.c8a9e575.css.map",
+    "main.3f11ad31.js.map": "/goit-react-hw-02-feedback/static/js/main.3f11ad31.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.c8a9e575.css",
+    "static/js/main.3f11ad31.js"
   ]
 }
